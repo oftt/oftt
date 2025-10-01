@@ -1,12 +1,8 @@
 <div align="center">
 
-<!-- 动态标题 -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Ma+Shan+Zheng&size=38&duration=3500&color=4C8BF5&center=true&vCenter=true&width=700&height=100&lines=🎮+写代码时偶尔假装自己是个魔法师;☕+把Bug当成喝不完的咖啡来调试;📆+今天的目标是：让键盘飞起来" alt="欢迎语" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Ma+Shan+Zheng&size=32&duration=3500&color=4C8BF5&center=true&vCenter=true&width=600&lines=%F0%9F%8C%8F+%E4%B8%96%E7%95%8C%E5%BE%88%E5%A4%A7%EF%BC%8C%E6%88%91%E5%8F%AA%E6%83%B3%E5%81%9A%E4%B8%AA%E5%BF%AB%E4%B9%90%E7%9A%84%E4%BA%BA;%F0%9F%95%8A+%E8%87%AA%E7%94%B1%E5%A6%82%E9%A3%8E%EF%BC%8C%E6%97%A0%E5%A4%84%E4%B8%8D%E5%9C%A8%E5%8D%B4%E6%97%A0%E5%A4%84%E5%8F%AF%E5%AF%BB;%F0%9F%8E%88+%E5%B8%A6%E7%9D%80%E6%A2%A6%E6%83%B3%E5%92%8C%E5%BE%AE%E7%AC%91%EF%BC%8C%E5%8E%BB%E6%8B%A5%E6%8A%B1%E6%AF%8F%E4%B8%80%E7%BC%95%E9%98%B3%E5%85%89;%F0%9F%8C%B4+%E6%8A%8A%E7%94%9F%E5%91%BD%E6%B4%BB%E6%88%90%E4%B8%80%E9%A6%96%E8%A9%A9%EF%BC%8C%E6%8A%8A%E5%BF%83%E4%BA%8B%E8%AE%B2%E7%BB%99%E8%BF%9C%E6%96%B9;%F0%9F%8E%90+%E5%92%8C%E9%A3%8E%E4%B8%80%E8%B5%B7%E6%BC%AB%E6%AD%A5%EF%BC%8C%E5%92%8C%E4%BA%91%E4%B8%80%E8%B5%B7%E9%A3%9E%E7%BF%94;%F0%9F%8C%8A+%E5%9C%A8%E6%B5%81%E6%B5%AA%E4%B8%AD%E5%AF%BB%E6%89%BE%E8%AF%97%E6%84%8F%EF%BC%8C%E5%9C%A8%E8%AF%97%E6%84%8F%E9%87%8C%E5%AE%89%E6%94%BE%E8%87%AA%E6%88%91" alt="欢迎语" />
 
-<!-- 个人头像 -->
-<img src="https://avatars.githubusercontent.com/u/43398833?v=4" width="200" height="200" style="border-radius: 50%; border: 5px solid #4C8BF5; padding: 4px; box-shadow: 0 8px 24px rgba(76,139,245,0.3); transition: all 0.3s ease;" alt="头像"/>
-
-# 你好，我是踢踢 👋
+# Hi，我是踢踢 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 **「终身学习者 · 技术探索者 · 代码工匠」**
 
