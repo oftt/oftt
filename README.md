@@ -6,7 +6,7 @@
 <!-- 个人头像 -->
 <img src="https://avatars.githubusercontent.com/u/43398833?v=4" width="200" height="200" style="border-radius: 50%; border: 5px solid #4C8BF5; padding: 4px; box-shadow: 0 8px 24px rgba(76,139,245,0.3); transition: all 0.3s ease;" alt="头像"/>
 
-# 你好，我是 oftt 👋
+# 你好，我是踢踢 👋
 
 **「终身学习者 · 技术探索者 · 代码工匠」**
 
